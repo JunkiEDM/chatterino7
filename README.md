@@ -1,6 +1,6 @@
-![alt text](https://fourtf.com/img/chatterino-icon-64.png)
-**Chatterino Homies**
-
+![icon](https://fourtf.com/img/chatterino-icon-64.png)
+Chatterino Homies [![GitHub Actions Build (Windows, Ubuntu, MacOS)](https://github.com/JunkiEDM/chatterino7/workflows/Build/badge.svg?branch=chatterino7)](https://github.com/JunkiEDM/chatterino7/actions?query=workflow%3ABuild+branch%3Achatterino7)
+============
 
 Chatterino Homies is a chat client for [Twitch.tv](https://twitch.tv).
 The Chatterino Homies wiki can be found [here](https://wiki.chatterino.com).
@@ -12,7 +12,7 @@ Current releases are available at [https://chatterinohomies.com](https://chatter
 
 ## Nightly build
 
-You can download the latest Chatterino Homies build over [here](https://github.com/itzAlex/chatterino7/releases/latest)
+You can download the latest Chatterino Homies build over [here](https://github.com/JunkiEDM/chatterino7/actions?query=workflow%3ABuild+branch%3Achatterino7)
 
 You might also need to install the [VC++ 2017 Redistributable](https://aka.ms/vs/15/release/vc_redist.x64.exe) from Microsoft if you do not have it installed already.  
 If you still receive an error about `MSVCR120.dll missing`, then you should install the [VC++ 2013 Restributable](https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe).
